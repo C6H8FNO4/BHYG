@@ -34,6 +34,8 @@ biliticket有权随时修改本条款，请及时关注本页更新
 
 **最后更新 2025.05.15**
 
+若版权方（或相关公司实体）想要下线本项目，请通过 Issue 或 ziantt@protonmail.com 联系我，我会第一时间下线
+
 ## Star History
 
 <a href="https://star-history.com/#biliticket/BHYG&Date">
